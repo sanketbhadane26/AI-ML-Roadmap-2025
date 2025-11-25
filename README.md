@@ -1,2 +1,30 @@
-# AI-ML-Roadmap-2025
-My 6-month AI/ML job-ready journey with daily notebooks and projects.
+#### \# AI-ML Roadmap 2025
+
+#### 
+
+#### This repository contains my day-by-day learning journey for AI \& Machine Learning in 2025.
+
+#### I am following a structured roadmap that includes:
+
+#### 
+
+#### \- Python basics
+
+#### \- NumPy, Pandas
+
+#### \- Data Cleaning \& EDA
+
+#### \- Data Visualization
+
+#### \- Machine Learning Algorithms
+
+#### \- Projects
+
+#### 
+
+#### \## 📁 Structure
+
+#### 
+
+#### 
+
